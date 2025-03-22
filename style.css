@@ -66,11 +66,3 @@ button:active {
     background: #0061ac;
 }
 
-.resultado-positivo {
-    color: green; /* Para resultados mayores a 0 */
-}
-
-.resultado-negativo {
-    color: red; /* Para resultados menores a 0 */
-}
-
